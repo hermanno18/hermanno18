@@ -1,5 +1,6 @@
 # Hey there, I'm [Hermann FOKOU - Hermanno18](https://www.hermann-fokou.com)! 🚀
 
+[![committers.top badge](https://user-badge.committers.top/cameroon_private/hermanno18.svg)](https://user-badge.committers.top/cameroon_private/hermanno18) 
 ## Code Enthusiast Freelancer 💻
 
 I'm a freelance developer who loves juggling with JavaScript, NuxtJS, and Tailwind CSS. My mission? Turning lines of code into digital masterpieces!
